@@ -24,4 +24,5 @@ made by.딸깍눌러조 ([HARMAN]python_project)
 3. 🧩 플러그인: 백준 문제 찾기:
 solved.ac 웹사이트의 Class별 문제 목록을 크롤링하여 보여주는 기능이 별도의 창으로 통합되어 있습니다. 문제 목록에서 원하는 문제를 더블클릭하면 즉시 웹 브라우저의 새 탭으로 해당 문제 페이지를 열어줍니다.
 
-image
+<img width="2048" height="3584" alt="image" src="https://github.com/user-attachments/assets/29f09aa8-ae8e-4cbe-bbbd-fd2ead800d9a" />
+
