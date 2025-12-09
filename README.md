@@ -1,5 +1,3 @@
-<div align="left">
-
 # ✨ Github 업로드 딸깍! ✨
 
 ### 🖱️ GitHub 자동 동기화 프로그램 🖱️
@@ -69,7 +67,6 @@ Developed by. **딸깍눌러조** ([HARMAN]python_project)
 
 ---
 
-<div align="left">
 
 Copyright ⓒ 2024 딸깍눌러조 All rights reserved.
 
